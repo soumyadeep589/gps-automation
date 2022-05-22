@@ -1,0 +1,7 @@
+ctl00_ContentPlaceHolder1_TabContainer1_tab_Consignment_btnshstock = "show stock"
+ctl00_ContentPlaceHolder1_TabContainer1_tab_Consignment_ddl_Brand = "beer select option "
+ctl00_ContentPlaceHolder1_TabContainer1_tab_Consignment_GridStock_ctl02_lblclblcase = "ware house stock case"
+ctl00_ContentPlaceHolder1_TabContainer1_tab_Consignment_GridStock_ctl02_Qty = "no of case input"
+ctl00_ContentPlaceHolder1_TabContainer1_tab_Consignment_btnshwsel = "add to bucket"
+ctl00_ContentPlaceHolder1_TabContainer1_tab_Consignment_btngentp = "save indent"
+ctl00_ContentPlaceHolder1_btnpayment = "pay"
